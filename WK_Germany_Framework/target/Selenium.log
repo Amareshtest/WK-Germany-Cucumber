@@ -1,0 +1,274 @@
+2018-06-07 13:11:51 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-07 13:11:59 [INFO ] [TestBase] - [before] Chrome
+2018-06-07 13:12:03 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-07 13:12:04 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-07 13:12:04 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-07 13:12:07 [INFO ] [TestBase] - [after] 
+2018-06-07 13:16:40 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-07 13:16:49 [INFO ] [TestBase] - [before] Chrome
+2018-06-07 13:17:00 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-07 13:17:00 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-07 13:17:00 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-07 13:17:01 [INFO ] [TestBase] - [after] 
+2018-06-07 13:17:30 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-07 13:17:38 [INFO ] [TestBase] - [before] Chrome
+2018-06-07 13:17:43 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-07 13:17:43 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-07 13:17:44 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-07 13:18:03 [INFO ] [TestBase] - [after] 
+2018-06-07 14:29:24 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-07 14:29:34 [INFO ] [TestBase] - [before] Chrome
+2018-06-07 14:29:39 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-07 14:29:40 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-07 14:29:40 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-07 14:29:46 [INFO ] [TestBase] - [after] 
+2018-06-07 14:30:45 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-07 14:30:52 [INFO ] [TestBase] - [before] Chrome
+2018-06-07 14:30:58 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-07 14:30:58 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-07 14:30:58 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-07 14:31:05 [INFO ] [TestBase] - [after] 
+2018-06-07 14:33:16 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-07 14:33:23 [INFO ] [TestBase] - [before] Chrome
+2018-06-07 14:33:34 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-07 14:33:34 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-07 14:33:35 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-07 14:33:40 [INFO ] [TestBase] - [after] 
+2018-06-20 15:51:39 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-20 15:51:54 [INFO ] [TestBase] - [before] Chrome
+2018-06-20 15:51:59 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-20 15:51:59 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-20 15:51:59 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-20 15:52:03 [INFO ] [TestBase] - [after] 
+2018-06-21 17:09:36 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-21 17:09:51 [INFO ] [TestBase] - [before] Chrome
+2018-06-21 17:10:24 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-21 17:10:24 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-21 17:10:24 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-21 17:10:43 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-21 17:10:44 [INFO ] [TestBase] - [takeScreenShot] D:\MY_Requirements\Test 662018\cucumberSeleniumFramework-masterscreenshots\_2018-06-21\Login to the application..jpg
+2018-06-21 17:38:24 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-21 17:38:31 [INFO ] [TestBase] - [before] Chrome
+2018-06-21 17:38:35 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-21 17:38:35 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-21 17:38:35 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-21 17:38:39 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-21 18:07:07 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-21 18:07:14 [INFO ] [TestBase] - [before] Chrome
+2018-06-21 18:07:34 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-21 18:07:34 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-21 18:07:34 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-21 18:07:49 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-21 18:12:10 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-21 18:12:19 [INFO ] [TestBase] - [before] Chrome
+2018-06-21 18:12:24 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-06-21 18:12:24 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-06-21 18:12:24 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-06-21 18:12:27 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:37:13 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:37:24 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:37:24 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:37:24 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:37:29 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:37:29 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:37:29 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:37:35 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:37:35 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:37:35 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:37:41 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:37:41 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:37:41 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:37:47 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:37:47 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:37:48 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:37:54 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:37:54 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:37:54 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:38:01 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:38:01 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:38:01 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:38:13 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:38:13 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:38:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:38:23 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:38:23 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:38:23 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:38:30 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:38:30 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:38:31 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:38:41 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:38:41 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:38:41 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:38:49 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:38:49 [INFO ] [TestBase] - [after] Scenario Finished
+2018-06-29 15:38:49 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-06-29 15:38:56 [INFO ] [TestBase] - [before] Chrome
+2018-06-29 15:38:56 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 10:26:52 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 10:27:03 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 10:27:03 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 10:27:03 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 10:27:08 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 10:27:09 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 10:27:14 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 10:27:14 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 10:27:15 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:28:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:28:21 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 12:28:21 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:28:27 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 12:28:27 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 12:28:27 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:28:34 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 12:28:34 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 12:28:34 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:37:08 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:37:14 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 12:37:14 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 12:37:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:37:19 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 12:37:19 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 12:40:56 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:41:01 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 12:41:01 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 12:41:02 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:41:57 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:42:03 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 12:42:03 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 12:42:04 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 12:42:10 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 12:42:10 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:13:52 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:13:58 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:13:58 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:13:59 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:14:05 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:15:40 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:15:46 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:15:46 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:15:47 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:15:51 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:15:51 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:26:27 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:26:34 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:26:34 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:26:34 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:26:39 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:26:39 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:28:02 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:28:08 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:28:08 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:28:08 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:28:14 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:28:14 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:40:55 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:41:03 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:41:03 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 13:41:03 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 13:41:07 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 13:41:07 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 14:56:20 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 14:56:26 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 14:56:26 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 14:56:27 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 14:56:32 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 14:56:32 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 15:03:34 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 15:03:42 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 15:03:42 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 15:03:42 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 15:03:48 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 15:19:19 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 15:19:24 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 15:19:24 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 15:33:34 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 15:33:41 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 15:33:41 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 15:34:49 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 15:34:56 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 15:35:11 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 15:46:47 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 15:46:52 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 15:47:02 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 15:49:49 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 15:49:56 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 15:50:01 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 15:50:01 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 15:50:01 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 15:50:09 [INFO ] [Loginpage] - [logout] Logging Out from the system
+2018-07-02 15:50:09 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 16:00:38 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 16:00:44 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 16:00:59 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:45:59 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:46:08 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:46:22 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:46:23 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:46:28 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:46:45 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:48:01 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:48:06 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:48:10 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 17:48:10 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 17:48:10 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 17:48:20 [INFO ] [Loginpage] - [logout] Logging Out from the system
+2018-07-02 17:48:41 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:48:41 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:48:45 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:48:56 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:50:58 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:51:04 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:51:14 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 17:51:14 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 17:51:15 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 17:51:33 [INFO ] [Loginpage] - [logout] Logging Out from the system
+2018-07-02 17:51:53 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:51:54 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:51:58 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:52:01 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 17:52:01 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 17:52:01 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 17:52:02 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:54:48 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:54:53 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:55:00 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 17:55:00 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 17:55:00 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 17:55:12 [INFO ] [Loginpage] - [logout] Logging Out from the system
+2018-07-02 17:55:32 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 17:55:33 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 17:55:36 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 17:55:39 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 17:55:40 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 17:55:40 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 17:55:41 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 18:09:22 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 18:09:28 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 18:09:56 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 18:09:56 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 18:09:56 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 18:10:20 [INFO ] [Loginpage] - [logout] Logging Out from the system
+2018-07-02 18:10:22 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-02 18:10:23 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-02 18:10:28 [INFO ] [TestBase] - [before] Chrome
+2018-07-02 18:11:08 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-02 18:11:08 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-02 18:11:09 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-02 18:11:09 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-28 18:24:16 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-28 18:24:16 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-28 18:24:16 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-28 18:24:16 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-28 18:37:43 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-28 18:37:50 [INFO ] [TestBase] - [before] Chrome
+2018-07-28 18:37:55 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-28 18:37:56 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-28 18:37:56 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-28 18:38:06 [INFO ] [Loginpage] - [logout] Logging Out from the system
+2018-07-28 18:38:10 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-28 18:38:10 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-28 18:38:15 [INFO ] [TestBase] - [before] Chrome
+2018-07-28 18:38:23 [INFO ] [Loginpage] - [enterusername] Entering username
+2018-07-28 18:38:23 [INFO ] [Loginpage] - [enterpassword] Entering password
+2018-07-28 18:38:24 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
+2018-07-28 18:38:25 [INFO ] [TestBase] - [after] Scenario Finished
