@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 6891017828,
+              "duration": 5272943270,
               "status": "passed"
             },
             "match": {
@@ -21,7 +21,7 @@
         "after": [
           {
             "result": {
-              "duration": 551130438,
+              "duration": 578653057,
               "status": "passed"
             },
             "match": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5672434559,
+              "duration": 19824204278,
               "status": "passed"
             },
             "line": 6,
@@ -46,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 137207507,
+              "duration": 149070919,
               "status": "passed"
             },
             "line": 7,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 122613939,
+              "duration": 153248661,
               "status": "passed"
             },
             "line": 8,
@@ -88,7 +88,7 @@
           },
           {
             "result": {
-              "duration": 3596894375,
+              "duration": 38653565578,
               "status": "passed"
             },
             "line": 9,
@@ -100,7 +100,7 @@
           },
           {
             "result": {
-              "duration": 33414,
+              "duration": 43180,
               "status": "passed"
             },
             "line": 10,
@@ -112,7 +112,7 @@
           },
           {
             "result": {
-              "duration": 10509800756,
+              "duration": 25548148392,
               "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.cucumber.framework.stepdefinition.Login.WKGLogin.i_click_on_logout_button(WKGLogin.java:51)\r\n\tat ✽.Then I click on logout button(featurefile/login/login.feature:11)\r\n",
               "status": "pending"
             },
@@ -144,7 +144,7 @@
         "before": [
           {
             "result": {
-              "duration": 4470334019,
+              "duration": 3377285048,
               "status": "passed"
             },
             "match": {
@@ -159,7 +159,7 @@
         "after": [
           {
             "result": {
-              "duration": 468616040,
+              "duration": 452319914,
               "status": "passed"
             },
             "match": {
@@ -172,7 +172,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8300984574,
+              "duration": 35610771862,
               "status": "passed"
             },
             "line": 20,
@@ -184,7 +184,7 @@
           },
           {
             "result": {
-              "duration": 160473220,
+              "duration": 182707220,
               "status": "passed"
             },
             "line": 21,
@@ -205,7 +205,7 @@
           },
           {
             "result": {
-              "duration": 133128978,
+              "duration": 145164085,
               "status": "passed"
             },
             "line": 22,
@@ -226,7 +226,7 @@
           },
           {
             "result": {
-              "duration": 1771308825,
+              "duration": 4081761818,
               "status": "passed"
             },
             "line": 23,
@@ -238,7 +238,7 @@
           },
           {
             "result": {
-              "duration": 60144,
+              "duration": 66314,
               "status": "passed"
             },
             "output": [

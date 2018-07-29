@@ -76,7 +76,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6891017828,
+  "duration": 5272943270,
   "status": "passed"
 });
 formatter.scenario({
@@ -133,7 +133,7 @@ formatter.match({
   "location": "WKGLogin.i_navigate_to_the_application()"
 });
 formatter.result({
-  "duration": 5672434559,
+  "duration": 19824204278,
   "status": "passed"
 });
 formatter.match({
@@ -146,7 +146,7 @@ formatter.match({
   "location": "WKGLogin.i_enter_to_username_textbox(String)"
 });
 formatter.result({
-  "duration": 137207507,
+  "duration": 149070919,
   "status": "passed"
 });
 formatter.match({
@@ -159,35 +159,35 @@ formatter.match({
   "location": "WKGLogin.i_enter_to_password_textbox(String)"
 });
 formatter.result({
-  "duration": 122613939,
+  "duration": 153248661,
   "status": "passed"
 });
 formatter.match({
   "location": "WKGLogin.i_click_the_login_button()"
 });
 formatter.result({
-  "duration": 3596894375,
+  "duration": 38653565578,
   "status": "passed"
 });
 formatter.match({
   "location": "WKGLogin.i_verify_login_success()"
 });
 formatter.result({
-  "duration": 33414,
+  "duration": 43180,
   "status": "passed"
 });
 formatter.match({
   "location": "WKGLogin.i_click_on_logout_button()"
 });
 formatter.result({
-  "duration": 10509800756,
+  "duration": 25548148392,
   "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.cucumber.framework.stepdefinition.Login.WKGLogin.i_click_on_logout_button(WKGLogin.java:51)\r\n\tat ✽.Then I click on logout button(featurefile/login/login.feature:11)\r\n",
   "status": "pending"
 });
 formatter.write("Finished Scenario");
 formatter.embedding("image/png", "embedded0.png");
 formatter.after({
-  "duration": 551130438,
+  "duration": 578653057,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -249,7 +249,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4470334019,
+  "duration": 3377285048,
   "status": "passed"
 });
 formatter.scenario({
@@ -301,7 +301,7 @@ formatter.match({
   "location": "WKGLogin.i_navigate_to_the_application()"
 });
 formatter.result({
-  "duration": 8300984574,
+  "duration": 35610771862,
   "status": "passed"
 });
 formatter.match({
@@ -314,7 +314,7 @@ formatter.match({
   "location": "WKGLogin.i_enter_to_username_textbox(String)"
 });
 formatter.result({
-  "duration": 160473220,
+  "duration": 182707220,
   "status": "passed"
 });
 formatter.match({
@@ -327,27 +327,27 @@ formatter.match({
   "location": "WKGLogin.i_enter_to_password_textbox(String)"
 });
 formatter.result({
-  "duration": 133128978,
+  "duration": 145164085,
   "status": "passed"
 });
 formatter.match({
   "location": "WKGLogin.i_click_the_login_button()"
 });
 formatter.result({
-  "duration": 1771308825,
+  "duration": 4081761818,
   "status": "passed"
 });
 formatter.match({
   "location": "WKGLogin.i_verify_login_success()"
 });
 formatter.result({
-  "duration": 60144,
+  "duration": 66314,
   "status": "passed"
 });
 formatter.write("Finished Scenario");
 formatter.embedding("image/png", "embedded1.png");
 formatter.after({
-  "duration": 468616040,
+  "duration": 452319914,
   "status": "passed"
 });
 });

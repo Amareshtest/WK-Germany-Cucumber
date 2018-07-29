@@ -1,4 +1,6 @@
-D:\MY_Requirements\Test 662018\cucumberSeleniumFramework-master\src\test\java\com\cucumber\framework\stepdefinition\login\LoginToAutomationPractices.java
-D:\MY_Requirements\Test 662018\cucumberSeleniumFramework-master\src\test\java\com\cucumber\framework\runner\FacebookLoginFeatureRunner.java
-D:\MY_Requirements\Test 662018\cucumberSeleniumFramework-master\src\test\java\com\cucumber\framework\runner\login\LoginRunner.java
-D:\MY_Requirements\Test 662018\cucumberSeleniumFramework-master\src\test\java\com\cucumber\framework\testng\dummy.java
+D:\WK Germany Git\WK_Germany_Framework\src\test\java\com\cucumber\framework\testng\dummy.java
+D:\WK Germany Git\WK_Germany_Framework\src\test\java\com\cucumber\framework\stepdefinition\NGC_MainForm\NGC_BEGR.java
+D:\WK Germany Git\WK_Germany_Framework\src\test\java\com\cucumber\framework\runner\NGC\NgcMainForm.java
+D:\WK Germany Git\WK_Germany_Framework\src\test\java\com\cucumber\framework\runner\login\LoginRunner.java
+D:\WK Germany Git\WK_Germany_Framework\src\test\java\com\cucumber\framework\stepdefinition\Login\WKGLogin.java
+D:\WK Germany Git\WK_Germany_Framework\src\test\java\com\cucumber\framework\runner\FacebookLoginFeatureRunner.java
