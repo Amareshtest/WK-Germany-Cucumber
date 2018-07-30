@@ -324,3 +324,17 @@
 2018-07-28 23:39:10 [INFO ] [Loginpage] - [enterpassword] Entering password
 2018-07-28 23:39:10 [INFO ] [Loginpage] - [clickloginbutton] Clicking login button
 2018-07-28 23:39:14 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-29 19:11:38 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-29 19:11:48 [INFO ] [TestBase] - [before] Chrome
+2018-07-29 19:11:48 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-29 19:11:48 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-29 19:11:52 [INFO ] [TestBase] - [before] Chrome
+2018-07-29 19:11:52 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-29 23:21:09 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-29 23:21:16 [INFO ] [TestBase] - [before] Chrome
+2018-07-30 06:29:44 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-30 06:29:54 [INFO ] [TestBase] - [before] Chrome
+2018-07-30 06:29:54 [INFO ] [TestBase] - [after] Scenario Finished
+2018-07-30 06:29:54 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-30 06:29:58 [INFO ] [TestBase] - [before] Chrome
+2018-07-30 06:29:58 [INFO ] [TestBase] - [after] Scenario Finished

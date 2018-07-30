@@ -3,7 +3,18 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test name="Test">
     <classes>
-      <class name="com.cucumber.framework.runner.login.LoginRunner"/>
+      <class name="com.cucumber.framework.runner.NGC.NgcMainForm"/>
     </classes>
   </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.cucumber.framework.runner.NGC.NgcMainForm">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.cucumber.framework.runner.NGC.NgcMainForm -->
+    </classes>
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
